@@ -1,18 +1,31 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.link{
-  text-align: center;
-}
-/* 
+ 
 .layoutno{
-  display: flex; justify-content: center; flex-wrap: wrap;
-  background-color: black;
-} */
+  display: flex; justify-content: space-around; flex-wrap: wrap;
+
+
+  background-color: rgb(241, 240, 253);
+} 
+
+
+.tags{
+  color: rgb(153, 23, 5);
+}
 
 
 
+
+/* 
+
+.layoutno {
+  min-height: 100vh;
+  background-color: #f7fafc; 
+ padding: 16px;
+}  */
 
 
 
