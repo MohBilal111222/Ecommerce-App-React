@@ -5,10 +5,11 @@
 .link{
   text-align: center;
 }
-
-
-
-
+/* 
+.layoutno{
+  display: flex; justify-content: center; flex-wrap: wrap;
+  background-color: black;
+} */
 
 
 

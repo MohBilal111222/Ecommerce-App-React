@@ -4,27 +4,14 @@ import Navbar from "./components/Navbar"
 
 function Layout() {
   return (
-    <>
-    <Navbar />
-    <Outlet />
-    </>
+    <div className="layoutno">
+      <Navbar />
+      <Outlet />
+    </div>
   )
 }
 
 export default Layout
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
