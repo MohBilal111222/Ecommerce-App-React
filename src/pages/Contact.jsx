@@ -1,11 +1,53 @@
-function Contact() {
-    return (
-      <>
-      <h1 className="px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500">Contact Us !</h1>
+// function Contact() {
+//     return (
+//       <>
+//       <h1 className="px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500">Contact Us !</h1>
       
       
-      </>
-    )
-  }
+//       </>
+//     )
+//   }
   
-  export default Contact
+//   export default Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import React from 'react'
+
+function Contact() {
+  return (
+
+
+    <>
+    
+    <h1 className='text-center text-[2rem] mt-4'>Contact Page</h1>
+    <h1 className='text-center text-[1.5rem] mt-4 text-[red]'>!No Data..</h1>
+
+    
+    </>
+
+
+  )
+}
+
+export default Contact

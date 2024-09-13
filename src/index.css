@@ -1,9 +1,10 @@
-
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
- 
+body{
+    background-color: rgb(221, 222, 224);
+}
 .layoutno{
   display: flex; justify-content: space-around; flex-wrap: wrap;
 
@@ -14,44 +15,27 @@
 
 .tags{
   color: rgb(153, 23, 5);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(221, 222, 224);
 }
-
-
-
-
-/* 
-
-.layoutno {
-  min-height: 100vh;
-  background-color: #f7fafc; 
- padding: 16px;
-}  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
