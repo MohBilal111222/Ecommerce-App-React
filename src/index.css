@@ -1,4 +1,4 @@
-/* @tailwind base;
+ @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -15,27 +15,15 @@ body{
 
 .tags{
   color: rgb(153, 23, 5);
-} */
+} 
+
+ 
 
 
 
 
 
 
-
-
-
-
-
-
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body{
-    background-color: rgb(221, 222, 224);
-}
 
 
 
