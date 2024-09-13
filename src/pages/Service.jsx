@@ -8,8 +8,22 @@ function Service() {
 
 
 
+      <h4>Contact Us</h4>
+            <p>Email: contact@example.com</p>
+            <p>Phone: +123 456 7890</p>
 
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non dignissimos numquam, deleniti nostrum fugit error ipsa rerum eum sint ipsam!</p>
+                <a href="https://facebook.com" target="_blank">Facebook</a>
+                <a href="https://twitter.com" target="_blank">Twitter</a>
+                <a href="https://instagram.com" target="_blank">Instagram</a>
+            
+
+            <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+  
+
+
+
+
+
       </>
     )
   }
